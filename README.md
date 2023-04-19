@@ -3,7 +3,7 @@
 
 
 - 🎓 I’m currently finishing up my bachelor’s in Management Engineering ([course description](https://www.polimi.it/futuri-studenti/corsi-di-laurea/ingegneria-gestionale)) at [Politecnico di Milano](https://www.polimi.it)
-- 🌱 I’m presently focused in Data Science
+- 🌱 I’m presently focused on Data Science
 - 📫 How to reach me: alecavalieri01@gmail.com
 
 <h3> I am currently working with </h3>
