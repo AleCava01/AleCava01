@@ -4,7 +4,8 @@
 
 - 🎓 I just finished up my bachelor of science in Management Engineering at [Politecnico di Milano](https://www.polimi.it)
 - 🌱 I’m presently focused on Data Science
-- 📫 How to reach me: alecavalieri01@gmail.com
+- 📫 How to reach me: [alecavalieri01@gmail.com](mailto:alecavalieri01@gmail.com)
+- 👤 Linkedin profile: [https://www.linkedin.com/in/alecavalieri/](https://www.linkedin.com/in/alecavalieri/)
 
 <h3> Languages and tools I am currently using </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
