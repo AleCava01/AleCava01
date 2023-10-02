@@ -2,7 +2,7 @@
 
 
 
-- 🎓 I’m currently finishing up my bachelor’s in Management Engineering at [Politecnico di Milano](https://www.polimi.it)
+- 🎓 I just finished up my bachelor of science in Management Engineering at [Politecnico di Milano](https://www.polimi.it)
 - 🌱 I’m presently focused on Data Science
 - 📫 How to reach me: alecavalieri01@gmail.com
 
