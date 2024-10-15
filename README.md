@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋, I'm Alessandro </h1>
 
 
-
-- 🎓 I just finished up my bachelor of science in Management Engineering at [Politecnico di Milano](https://www.polimi.it)
+- 🎓 MsC Mathematical Engineering - Statistical Learning at [Politecnico di Milano](https://www.polimi.it)
+- 🎓 BsC Management Engineering at [Politecnico di Milano](https://www.polimi.it)
 - 🌱 I’m presently focused on Data Science
 - 📫 How to reach me: [alecavalieri01@gmail.com](mailto:alecavalieri01@gmail.com)
 - 👤 Linkedin profile: [https://www.linkedin.com/in/alecavalieri/](https://www.linkedin.com/in/alecavalieri/)
