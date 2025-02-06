@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/6be20c3f-206a-42a1-96dc-d69e2b9a954f" alt="giphy-min" width="300"/>
 </p>
 
-## 🔥 Su di me
+## 🔥 About Me
 - 🎓 MEng Mathematical Engineering - Statistical Learning track at Politecnico di Milano  
 - 🎓 BEng Management Engineering at Politecnico di Milano  
 - 🌱 working on ML & AI with advanced math groundings
@@ -39,6 +39,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50" height="50"/>
 </p>
 
-## 🚀 Altri Link
+## 🚀 Contacts
 - 💼 [LinkedIn](https://www.linkedin.com/in/alecavalieri)  
 - ✉️ Contattami su [email](mailto:alecavalieri01@gmail.com)
