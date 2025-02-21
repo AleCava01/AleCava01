@@ -7,7 +7,7 @@
 ## 🔥 About Me
 - 🎓 MEng Mathematical Engineering - Statistical Learning track at Politecnico di Milano  
 - 🎓 BEng Management Engineering at Politecnico di Milano  
-- 🌱 working on ML & AI with advanced math groundings
+- 🌱 working on ML & AI
 - 📍 Milan, Italy
 ## 🛠️ Tech Stack
 
